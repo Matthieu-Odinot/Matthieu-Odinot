@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Je suis Matthieu Odinot</h1>
 <h3 align="center">Un développeur en herbe.</h3>
 
-- 🌱 J'apprend actuellement **python , html/css , VM**
+- 🌱 J'apprends actuellement **python , html/css , VM**
 
 - 📫 Pour me contacter **matthieu.odinot@laplateforme.io**
 
