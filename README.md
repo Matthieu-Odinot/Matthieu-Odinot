@@ -1,3 +1,6 @@
+<img align="center">![Matthieu Odinot](https://github.com/user-attachments/assets/85735096-e233-4bde-8b54-f7cd66828d81)</img>
+
+
 <h1 align="center">Bonjour 👋, Je suis Matthieu Odinot</h1>
 <h3 align="center">Un développeur en herbe.</h3>
 
